@@ -64,6 +64,7 @@ header .logo
 
 .showcase video
 {
+  background: url(vid.mp4);
   position: absolute;
   top: 0;
   left: 0;
